@@ -10,3 +10,4 @@ for(i=0;i<DUTYCYCLE_ARRAY_MAX_I;i++) //Bubble Sort
 		}
 	}
 }
+
